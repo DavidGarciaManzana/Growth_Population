@@ -30,7 +30,7 @@ Install my-project with npm
 
 ## Usage
 
-Watch inputfiles
+Watch input file
 ```javascript
 tsc --watch
 ```
