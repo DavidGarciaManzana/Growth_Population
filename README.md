@@ -18,6 +18,24 @@ Challenge: Write a function to determine the number of years required for a town
 The function should take in the above parameters and return the number of years it will take for the town to reach the target population
 
 
+## Installation
+
+Install my-project with npm
+```bash
+  cd my-project
+  npm install typescript --save-dev
+  tsc --init
+```
+
+
+## Usage
+
+Watch inputfiles
+```javascript
+tsc --watch
+```
+
+
 ## Authors
 
 - [@DavidGarciaManzana](https://github.com/DavidGarciaManzana)
