@@ -26,5 +26,3 @@ The function should take in the above parameters and return the number of years 
 ## Acknowledgements
 
  - [Growth of a Population Kata - Codewars.com ](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
- 
-- [User:g964](https://www.codewars.com/users/g964)
