@@ -11,3 +11,4 @@ let nbYear = (p0: number, percent: number, aug: number, p: number): number => {
     };
     return years;
 };
+// console.log(nbYear(1200,5,50,5800))
